@@ -1,4 +1,4 @@
-# Jonathan_Monteiro_Portfolio
+# Jonathan Monteiro's Data Science Portfolio
 
 # [Project #1: Estimating Median Home Values Based on Societal Variables](https://github.com/jgmonteirohub/Predicting-Median-Home-Values-With-Societal-Variables)
 * Created a machine learning model that could estimate a city's median home value based on factors within the city, such as average household income, school test scores and more. 
