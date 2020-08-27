@@ -1,10 +1,14 @@
 # Jonathan Monteiro's Data Science Portfolio
 
 # [Project #1: Predicting Revenue Generation with Customers' Web Browsing Data]()
-*
+* Created a prediction model designed to classify whether or not a customer will generate revenue for the company based on their browsing tendencies on the company website
+* The data set included 15+ variables, including which sections of the website they visited, how long they visited those sections for, if they were a returning visitor and more
+* Within Python, several Supervised Learning machine learning algorithms were utilized including Logistic Regression, Decision Trees, Random Forest, and Gradient Boosting
+* An Unsupervised Learning method, Clustering, was also employed in order to gain further insight from the customer data
+
 ![](https://github.com/jgmonteirohub/Jonathan-Monteiro-Portfolio/blob/master/images/revenuebymonth.PNG)
 
-# [Project #3: Estimating Median Home Values Based on Societal Variables](https://github.com/jgmonteirohub/Predicting-Median-Home-Values-With-Societal-Variables)
+# [Project #2 Estimating Median Home Values Based on Societal Variables](https://github.com/jgmonteirohub/Predicting-Median-Home-Values-With-Societal-Variables)
 * Created a machine learning model that could estimate a city's median home value based on factors within the city, such as average household income, school test scores and more. 
 * Utilized R programming language to webscrape information from over 1800 cities on the website "www.AreaVibes.com"
 * Multiple linear regression was determined to be the most effective machine learning technique to solve this challenge 
