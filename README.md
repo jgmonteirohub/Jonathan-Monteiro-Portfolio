@@ -6,4 +6,4 @@
 * Multiple linear regression was determined to be the most effective machine learning technique to solve this challenge 
 * Analyzed 10+ predictor variables to order to ascertain which were the most important in predicting the city's median home values
 
-![](https://github.com/jgmonteirohub/Jonathan_Monteiro_Portfolio/blob/master/images/Median%20Rent%20%2B%20Home%20Values.PNG)
+![](https://github.com/jgmonteirohub/Jonathan_Monteiro_Portfolio/blob/master/images/medianbystate.PNG)
