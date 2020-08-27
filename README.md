@@ -1,6 +1,6 @@
 # Jonathan Monteiro's Data Science Portfolio
 
-# [Project #1: Predicting Revenue Generation with Online Shoppers' Web Browsing Data]()
+# [Project #1: Predicting Revenue Generation with Customers' Web Browsing Data]()
 *
 ![](https://github.com/jgmonteirohub/Jonathan-Monteiro-Portfolio/blob/master/images/revenuebymonth.PNG)
 
