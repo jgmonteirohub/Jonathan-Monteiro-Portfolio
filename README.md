@@ -1,6 +1,10 @@
 # Jonathan Monteiro's Data Science Portfolio
 
-# [Project #1: Estimating Median Home Values Based on Societal Variables](https://github.com/jgmonteirohub/Predicting-Median-Home-Values-With-Societal-Variables)
+# [Project #1: Predicting Revenue Generation with Online Shoppers' Web Browsing Data]()
+*
+![](https://github.com/jgmonteirohub/Jonathan-Monteiro-Portfolio/blob/master/images/revenuebymonth.PNG)
+
+# [Project #3: Estimating Median Home Values Based on Societal Variables](https://github.com/jgmonteirohub/Predicting-Median-Home-Values-With-Societal-Variables)
 * Created a machine learning model that could estimate a city's median home value based on factors within the city, such as average household income, school test scores and more. 
 * Utilized R programming language to webscrape information from over 1800 cities on the website "www.AreaVibes.com"
 * Multiple linear regression was determined to be the most effective machine learning technique to solve this challenge 
