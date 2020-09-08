@@ -1,5 +1,3 @@
-# Jonathan Monteiro's Data Science Portfolio
-
 # [Project #1: Predicting Revenue Generation with Customers' Web Browsing Data](https://github.com/jgmonteirohub/Classifying-Revenue-Generating-Online-Shoppers)
 * Created a prediction model designed to classify whether or not a customer will generate revenue for the company based on their browsing tendencies on the company website
 * The data set included 15+ variables, including which sections of the website they visited, how long they visited those sections for, if they were a returning visitor and more
