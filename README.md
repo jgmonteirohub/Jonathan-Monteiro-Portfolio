@@ -30,4 +30,4 @@
 * Datasets consists of information such as positive cases, deaths, recoveries and more
 * Utilizing shiny dashboard within the R programming language to create this interactive dashboard
 
-![](images/CovidDashboard.PNG)
+![](images/CovidDashboard2.PNG)
