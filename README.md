@@ -26,8 +26,8 @@
 ![](images/RadiusVsConcavity.PNG)
 
 # [Project #4: Interactive COVID-19 Dashboard (Ongoing)]()
-* Currently creating an interactive dashboard that showcases COVID 19 statistics for the United States as well as countries worldwide
-* Datasets consists of information such as positive cases, deaths, recoveries and more
-* Utilizing shiny dashboard within the R programming language to create this interactive dashboard
+* Currently creating an interactive dashboard that showcases COVID 19 statistics for the United States, as well as countries worldwide
+* Dashboard showcases crucial information regarding the pandemic, such as total positive cases, deaths, recoveries and more
+* Utilizing shiny dashboard within the R programming language to create the interactive dashboard
 
 ![](images/CovidDashboard2.PNG)
