@@ -1,6 +1,6 @@
 # Jonathan Monteiro's Data Science Portfolio
 
-# [Project #1: Predicting Revenue Generation with Customers' Web Browsing Data]()
+# [Project #1: Predicting Revenue Generation with Customers' Web Browsing Data](https://github.com/jgmonteirohub/Classifying-Revenue-Generating-Online-Shoppers)
 * Created a prediction model designed to classify whether or not a customer will generate revenue for the company based on their browsing tendencies on the company website
 * The data set included 15+ variables, including which sections of the website they visited, how long they visited those sections for, if they were a returning visitor and more
 * Within Python, several Supervised Learning machine learning algorithms were utilized including Logistic Regression, Decision Trees, Random Forest, and Gradient Boosting
@@ -24,3 +24,10 @@
 * After observing their performance, the Boosting model was determined to be the most effective model with an accuracy of 95.6
 
 ![](images/RadiusVsConcavity.PNG)
+
+# [Project #4: Interactive COVID-19 Dashboard (Ongoing)]()
+* Currently creating an interactive dashboard that showcases COVID 19 statistics for the United States as well as countries worldwide
+* Datasets consists of information such as positive cases, deaths, recoveries and more
+* Utilizing shiny dashboard within the R programming language to create this interactive dashboard
+
+![](images/CovidDashboard.PNG)
