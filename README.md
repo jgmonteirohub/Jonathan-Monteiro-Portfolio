@@ -23,9 +23,12 @@
 
 ![](images/RadiusVsConcavity.PNG)
 
-# [Project #4: Interactive COVID-19 Dashboard (Ongoing)]()
-* Currently creating an interactive dashboard that showcases COVID 19 statistics for the United States, as well as countries worldwide
-* Dashboard showcases crucial information regarding the pandemic, such as total positive cases, deaths, recoveries and more
-* Utilizing shiny dashboard within the R programming language to create the interactive dashboard
+# [Project #4: Deep Learning Applications for Melanoma Detection in Images](https://github.com/jgmonteirohub/Melanoma-Detection-with-Neural-Networks)
+* Created a deep learning model designed to classify skin moles as benign or malignant melanoma using images as input
+* The data set included 3297 images, 1800 were images of benign skin moles and 1497 were of malignant skin moles
+* Within Python, Pytorch was utilized in order to create both a fully connected neural network and a convolutional neural network
+* Performance evaluation indicated that a convolutional neural network would be the superior option
+* The CNN model achieved a test accuracy of  percent 
 
-![](images/CovidDashboard2.PNG)
+![](images/NNmodel.png)
+
